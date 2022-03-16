@@ -6,7 +6,7 @@ Written in BASH, this script will unban your DDNS should you happen to have a pe
 
 ## How to install:
 
-1. Add whitelist.sh to your server in an appropriet directory.
+1. Add whitelist.sh to your server in an appropriate directory.
 ```
 chmod +x whitelist.sh
 ```
